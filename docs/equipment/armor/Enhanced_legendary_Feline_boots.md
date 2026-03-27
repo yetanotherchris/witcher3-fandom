@@ -1,0 +1,135 @@
+# Enhanced legendary Feline boots
+
+## Enhanced legendary Feline boots
+
+[ ![Tw3 feline boots 1](https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_feline_boots_1.png/revision/latest?cb=20160323140941) ](https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_feline_boots_1.png/revision/latest?cb=20160323140941 "Tw3 feline boots 1")
+
+## Information
+
+### [Tier](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_tier "Terms and definitions")
+
+Witcher gear
+
+### [Type](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_tier "Terms and definitions")
+
+[Light armor](https://witcher.fandom.com/wiki/The_Witcher_3_light_armor "The Witcher 3 light armor")
+
+### [Level Req.](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_level "Terms and definitions")
+
+23 + starting level
+
+### Source
+
+Craft
+
+### [Weight](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_weight "Terms and definitions")
+
+2.16 ![Tw3 weight brown](https://static.wikia.nocookie.net/witcher/images/9/98/Tw3_weight_brown.svg/revision/latest/scale-to-width-down/13?cb=20180420180200)
+
+## Attributes
+
+### Effect(s)
+
++12% Attack Power  
++5% Resistance to piercing damage  
++7% Resistance to slashing damage  
++3% Resistance to damage from [monsters](https://witcher.fandom.com/wiki/The_Witcher_3_bestiary "The Witcher 3 bestiary") (7% before [Patch 4.0](https://witcher.fandom.com/wiki/Patch_4.0_\(The_Witcher_3\) "Patch 4.0 \(The Witcher 3\)"))  
++6% Resistance to [elemental](https://witcher.fandom.com/wiki/Elementa "Elementa") damage (7% before [Patch 4.0](https://witcher.fandom.com/wiki/Patch_4.0_\(The_Witcher_3\) "Patch 4.0 \(The Witcher 3\)"))
+
+### Slots
+
+1
+
+### [Armor](https://witcher.fandom.com/wiki/Terms_and_definitions#Armor_and_Damage "Terms and definitions")
+
+57 (at level 24)  
++2 per level
+
+## Crafting
+
+### Diagram
+
+[Enhanced legendary Feline boots](https://witcher.fandom.com/wiki/Diagram:_Enhanced_legendary_Feline_boots "Diagram: Enhanced legendary Feline boots")
+
+### Craftsman
+
+Journeyman [armorer](https://witcher.fandom.com/wiki/Armorer "Armorer")
+
+### Component(s)
+
+1 × [Legendary Feline boots](https://witcher.fandom.com/wiki/Legendary_Feline_boots "Legendary Feline boots")  
+2 × [Hardened leather](https://witcher.fandom.com/wiki/Hardened_leather "Hardened leather")  
+1 × [Dark iron ore](https://witcher.fandom.com/wiki/Dark_iron_ore "Dark iron ore")  
+2 × [Leather straps](https://witcher.fandom.com/wiki/Leather_straps "Leather straps")  
+1 × [Hardened timber](https://witcher.fandom.com/wiki/Hardened_timber "Hardened timber")  
+2 × [Monster eye](https://witcher.fandom.com/wiki/Monster_eye "Monster eye")
+
+## Dismantling
+
+### [Component(s)](https://witcher.fandom.com/wiki/Terms_and_definitions#Dismantling "Terms and definitions")
+
+1-2 × [Hardened leather](https://witcher.fandom.com/wiki/Hardened_leather "Hardened leather")  
+1 × [Dark iron ore](https://witcher.fandom.com/wiki/Dark_iron_ore "Dark iron ore")  
+1-2 × [Leather straps](https://witcher.fandom.com/wiki/Leather_straps "Leather straps")  
+1 × [Hardened timber](https://witcher.fandom.com/wiki/Hardened_timber "Hardened timber")
+
+## Item ID
+
+Lynx Boots 2
+
+**Enhanced legendary Feline boots** are craftable [light armor](https://witcher.fandom.com/wiki/The_Witcher_3_light_armor "The Witcher 3 light armor") [boots](https://witcher.fandom.com/wiki/The_Witcher_3_boots "The Witcher 3 boots") and are part of the [Cat School Gear](https://witcher.fandom.com/wiki/Cat_School_Gear "Cat School Gear") in _[The Witcher 3: Wild Hunt](https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt "The Witcher 3: Wild Hunt")_ with the [New Game +](https://witcher.fandom.com/wiki/New_Game_%2B "New Game +") option. They are needed to craft [superior legendary Feline boots](https://witcher.fandom.com/wiki/Superior_legendary_Feline_boots "Superior legendary Feline boots"). 
+
+**Crafting Requirements** ![Tw2 icon crafting](https://static.wikia.nocookie.net/witcher/images/9/9e/Tw2_icon_crafting.svg/revision/latest?cb=20110531194409)  
+
+**Min. Required Level:** Journeyman [armorer](https://witcher.fandom.com/wiki/Armorer "Armorer")  
+
+[![Tw3 feline boots 1](https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_feline_boots_1.png/revision/latest/scale-to-width-down/20?cb=20160323140941)](https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_feline_boots_1.png/revision/latest?cb=20160323140941)
+
+[Legendary Feline boots](https://witcher.fandom.com/wiki/Legendary_Feline_boots "Legendary Feline boots")
+
+× 1
+
+[![Tw3 feline boots 1](https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_feline_boots_1.png/revision/latest/scale-to-width-down/20?cb=20160323140941)](https://static.wikia.nocookie.net/witcher/images/b/b2/Tw3_feline_boots_1.png/revision/latest?cb=20160323140941) [Legendary Feline boots](https://witcher.fandom.com/wiki/Legendary_Feline_boots "Legendary Feline boots") × 1
+
+[![Tw3 hardened leather](https://static.wikia.nocookie.net/witcher/images/f/fd/Tw3_hardened_leather.png/revision/latest/scale-to-width-down/40?cb=20170216074340)](https://static.wikia.nocookie.net/witcher/images/f/fd/Tw3_hardened_leather.png/revision/latest?cb=20170216074340)
+
+[Hardened leather](https://witcher.fandom.com/wiki/Hardened_leather "Hardened leather")
+
+× 2
+
+[![Tw3 hardened leather](https://static.wikia.nocookie.net/witcher/images/f/fd/Tw3_hardened_leather.png/revision/latest/scale-to-width-down/40?cb=20170216074340)](https://static.wikia.nocookie.net/witcher/images/f/fd/Tw3_hardened_leather.png/revision/latest?cb=20170216074340) [Hardened leather](https://witcher.fandom.com/wiki/Hardened_leather "Hardened leather") × 2
+
+[![Tw3 dark iron ore](https://static.wikia.nocookie.net/witcher/images/0/0b/Tw3_dark_iron_ore.png/revision/latest/scale-to-width-down/40?cb=20170216064640)](https://static.wikia.nocookie.net/witcher/images/0/0b/Tw3_dark_iron_ore.png/revision/latest?cb=20170216064640)
+
+[Dark iron ore](https://witcher.fandom.com/wiki/Dark_iron_ore "Dark iron ore")
+
+× 1
+
+[![Tw3 dark iron ore](https://static.wikia.nocookie.net/witcher/images/0/0b/Tw3_dark_iron_ore.png/revision/latest/scale-to-width-down/40?cb=20170216064640)](https://static.wikia.nocookie.net/witcher/images/0/0b/Tw3_dark_iron_ore.png/revision/latest?cb=20170216064640) [Dark iron ore](https://witcher.fandom.com/wiki/Dark_iron_ore "Dark iron ore") × 1
+
+[![Tw3 leather straps](https://static.wikia.nocookie.net/witcher/images/0/06/Tw3_leather_straps.png/revision/latest/scale-to-width-down/40?cb=20160407091321)](https://static.wikia.nocookie.net/witcher/images/0/06/Tw3_leather_straps.png/revision/latest?cb=20160407091321)
+
+[Leather straps](https://witcher.fandom.com/wiki/Leather_straps "Leather straps")
+
+× 2
+
+[![Tw3 leather straps](https://static.wikia.nocookie.net/witcher/images/0/06/Tw3_leather_straps.png/revision/latest/scale-to-width-down/40?cb=20160407091321)](https://static.wikia.nocookie.net/witcher/images/0/06/Tw3_leather_straps.png/revision/latest?cb=20160407091321) [Leather straps](https://witcher.fandom.com/wiki/Leather_straps "Leather straps") × 2
+
+[![Tw3 hardened timber](https://static.wikia.nocookie.net/witcher/images/4/42/Tw3_hardened_timber.png/revision/latest/scale-to-width-down/40?cb=20160920124252)](https://static.wikia.nocookie.net/witcher/images/4/42/Tw3_hardened_timber.png/revision/latest?cb=20160920124252)
+
+[Hardened timber](https://witcher.fandom.com/wiki/Hardened_timber "Hardened timber")
+
+× 1
+
+[![Tw3 hardened timber](https://static.wikia.nocookie.net/witcher/images/4/42/Tw3_hardened_timber.png/revision/latest/scale-to-width-down/40?cb=20160920124252)](https://static.wikia.nocookie.net/witcher/images/4/42/Tw3_hardened_timber.png/revision/latest?cb=20160920124252) [Hardened timber](https://witcher.fandom.com/wiki/Hardened_timber "Hardened timber") × 1
+
+[![Tw3 monster eye](https://static.wikia.nocookie.net/witcher/images/1/16/Tw3_monster_eye.png/revision/latest/scale-to-width-down/40?cb=20160323142543)](https://static.wikia.nocookie.net/witcher/images/1/16/Tw3_monster_eye.png/revision/latest?cb=20160323142543)
+
+[Monster eye](https://witcher.fandom.com/wiki/Monster_eye "Monster eye")
+
+× 2
+
+[![Tw3 monster eye](https://static.wikia.nocookie.net/witcher/images/1/16/Tw3_monster_eye.png/revision/latest/scale-to-width-down/40?cb=20160323142543)](https://static.wikia.nocookie.net/witcher/images/1/16/Tw3_monster_eye.png/revision/latest?cb=20160323142543) [Monster eye](https://witcher.fandom.com/wiki/Monster_eye "Monster eye") × 2
+
+---
+*Source: [Enhanced legendary Feline boots](https://witcher.fandom.com/wiki/Enhanced_legendary_Feline_boots) on Witcher Wiki, licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*

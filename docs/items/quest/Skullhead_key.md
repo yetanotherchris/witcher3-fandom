@@ -1,0 +1,42 @@
+# Skullhead key
+
+## Skullhead key
+
+[ ![Tw3 q309 key piece2](https://static.wikia.nocookie.net/witcher/images/0/0e/Tw3_q309_key_piece2.png/revision/latest?cb=20160305092725) ](https://static.wikia.nocookie.net/witcher/images/0/0e/Tw3_q309_key_piece2.png/revision/latest?cb=20160305092725 "Tw3 q309 key piece2")
+
+## Information
+
+### [Tier](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_tier "Terms and definitions")
+
+Common
+
+### [Type](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_tier "Terms and definitions")
+
+[Key](https://witcher.fandom.com/wiki/Category:The_Witcher_3_keys "Category:The Witcher 3 keys")
+
+### Source
+
+[Archgriffin](https://witcher.fandom.com/wiki/Archgriffin "Archgriffin")'s nest on [Snidhall Isle](https://witcher.fandom.com/wiki/Snidhall_Isle "Snidhall Isle")
+
+### [Weight](https://witcher.fandom.com/wiki/Terms_and_definitions#Item_weight "Terms and definitions")
+
+0.01 ![Tw3 weight brown](https://static.wikia.nocookie.net/witcher/images/9/98/Tw3_weight_brown.svg/revision/latest/scale-to-width-down/13?cb=20180420180200)
+
+## Value
+
+### [Base](https://witcher.fandom.com/wiki/Terms_and_definitions#Price "Terms and definitions")
+
+1 ![Crownitem](https://static.wikia.nocookie.net/witcher/images/2/22/Crownitem.png/revision/latest/scale-to-width-down/15?cb=20180420173351)
+
+## Item ID
+
+lw_sk38_treasure_key
+
+**Skullhead key** is a key and [quest item](https://witcher.fandom.com/wiki/The_Witcher_3_quest_items "The Witcher 3 quest items") in _[The Witcher 3: Wild Hunt](https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt "The Witcher 3: Wild Hunt")_ , found along with [note](https://witcher.fandom.com/wiki/A_frustrated_warrior%27s_notes "A frustrated warrior's notes") on a body in the [archgriffin](https://witcher.fandom.com/wiki/Archgriffin "Archgriffin")'s nest on [Snidhall Isle](https://witcher.fandom.com/wiki/Snidhall_Isle "Snidhall Isle"). 
+
+## Associated quest
+
+  * [Unlucky's Treasure](https://witcher.fandom.com/wiki/Unlucky%27s_Treasure "Unlucky's Treasure")
+
+---
+*Source: [Skullhead key](https://witcher.fandom.com/wiki/Skullhead_key) on Witcher Wiki, licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
