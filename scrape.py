@@ -201,6 +201,7 @@ def save_page(title, folder, md):
 
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")
     print("Collecting page lists from all categories...")
     # page_title -> set of matching W3 categories
     page_to_cats = {}
