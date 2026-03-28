@@ -1,16 +1,16 @@
-# The Witcher 3: Wild Hunt Wiki
+# Wiki
 
-Content sourced from the [Witcher Wiki](https://witcher.fandom.com) under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+## Sections
 
-## Contents
-
-- [Characters](characters/)
-- [Quests](quests/)
-- [Locations](locations/)
-- [Bestiary](bestiary/)
-- [Equipment](equipment/)
 - [Alchemy](alchemy/)
-- [Crafting](crafting/)
-- [Items](items/)
+- [Bestiary](bestiary/)
 - [Books](books/)
-- [DLC](dlc/)
+- [Characters](characters/)
+- [Crafting](crafting/)
+- [Dlc](dlc/)
+- [Equipment](equipment/)
+- [General](general/)
+- [Items](items/)
+- [Locations](locations/)
+- [Quests](quests/)
+
