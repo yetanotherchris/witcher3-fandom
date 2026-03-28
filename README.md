@@ -1,6 +1,6 @@
 # witcher3-fandom
 
-Witcher 3 Fandom wiki pages scraped to markdown using Claude.
+Witcher 3 Fandom wiki pages scraped to markdown using Claude, mostly used to test if Claude Code (v4.6 Opus) could do it.
 
 3,268 pages from [witcher.fandom.com](https://witcher.fandom.com) converted to markdown, organised by category.
 
